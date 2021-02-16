@@ -14,6 +14,7 @@ import java.util.Arrays;
 public class Practica1 {
 
     public static void main(String[] args) {
+        //El canvi és aquest comentari
 
         //Prova1: retornarà null i v1 contindrà [ 3, 4, 5, 6]
         int[] v1 = new int[]{1, 2, 3, 4};
